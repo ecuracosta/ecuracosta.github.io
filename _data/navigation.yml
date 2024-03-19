@@ -1,11 +1,10 @@
-
 # Navigation Bar
 main:
   - title: "About"
-    url: _pages/about/
+    url: /about/
   - title: "Projects"
-    url: _pages/projects/
+    url: /projects/
   - title: "Publications"
-    url: _pages/publications/
+    url: /publications/
 #  - title: "Blog"
-#    url: pages/blog/
+#    url: /blog/
