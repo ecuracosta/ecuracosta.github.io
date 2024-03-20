@@ -1,11 +1,11 @@
 ---
 layout: single
-title: "About"
-permalink: /about/
+title: "Welcome to my corner of the internet!"
+permalink: /
 author_profile: true
 ---
 
-Welcome to my corner of the internet! I'm Emanuel, a curious mind at the intersection of biology, physics, programming and everything in between. My journey in science started with a deep fascination for the natural world, leading me to explore the mysteries of life through the lens of biological sciences.
+I'm Emanuel, a curious mind at the intersection of biology, physics, programming and everything in between. My journey in science started with a deep fascination for the natural world, leading me to explore the mysteries of life through the lens of biological sciences.
 
 But why stop there? I've always believed that the most exciting discoveries happen at the crossroads of disciplines. That's why I ventured into the world of Python, not just as a developer and data scientist, but as a bridge builder between different realms of knowledge.
 
