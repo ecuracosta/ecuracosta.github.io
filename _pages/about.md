@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "Welcome to my corner of the internet!"
-permalink: /
+permalink: /about/
 author_profile: true
 ---
 
