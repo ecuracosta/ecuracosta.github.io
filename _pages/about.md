@@ -13,7 +13,7 @@ One of my proudest moments was unraveling the secrets of spinal cord regeneratio
 
 Currently, I'm pouring my energy into SysVert, a pioneering software project designed to delve into the intricacies of cellular tissue studies. It's a vertex model engine implemented in Python, blended with PyQt and Glumpy magic, that I hope will push the boundaries of systems biology.
 
-My passion for merging biology and technology also led me to victory at the Bio x AI hackathon, where my project ProteinBind used machine learning to decode the mysteries of protein mutations. And when I'm not knee-deep in research, I enjoy flexing my Python skills in app development, web scraping, image analysis, and more.
+My passion for merging biology and technology also led me to victory at the Bio x AI hackathon, where our team project ProteinBind used machine learning to decode the mysteries of protein mutations. And when I'm not knee-deep in research, I enjoy flexing my Python skills in app development, web scraping, image analysis and more.
 
 Teaching has been another rewarding avenue for me. Sharing knowledge and igniting curiosity in students at the National University of La Plata has been an enriching experience. It's a joy to see young minds grasp the beauty of biology and the power of biophysics while helping them build critical minds.
 
