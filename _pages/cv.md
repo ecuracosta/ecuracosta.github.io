@@ -1,9 +1,24 @@
 ---
 layout: single
-title: "Projects"
-permalink: /projects/
+title: "Curriculum Vitae"
+permalink: /cv/
 author_profile: true
 ---
+
+<div markdown="1" class="notice--info">
+## Academic Experience
+
+### Completed Studies
+- **PhD in Biological Sciences**  
+  Facultad de Cs. Exactas - Universidad Nacional de La Plata (UNLP), La Plata  
+  Approved with special distinction.  
+  Thesis: "Tissue regeneration, a systems biology approach"
+
+- **Bachelor/MSc in Biotechnology and Molecular Biology**  
+  Facultad de Cs. Exactas - Universidad Nacional de La Plata (UNLP), La Plata  
+  Grade: 7.12/10  
+  Thesis: "Benznidazole: a reliable and efficient model for systems studied through molecular dynamics"
+</div>
 
 <div markdown="1" class="notice--success">
 ## Professional Experience
@@ -23,7 +38,9 @@ author_profile: true
   Explored mechanisms of spinal cord regeneration in axolotls.  
   - Formulated mathematical models to uncover developmental-like programs post-injury.
   - Validated spatiotemporal cell recruitment through experimental data using PyABC for Approximate Bayesian Computation.
+</div>
 
+<div markdown="1" class="notice--warning">
 ### Teaching
 - **Instructor**  
   Universidad Nacional de La Plata (UNLP), 2016-2023  
@@ -31,22 +48,4 @@ author_profile: true
   - Head of practical work in Biophysical Chemistry, part-time, 2021-2023.
   - Certified Assistant in Biophysical Chemistry, part-time, 2021.
   - Student Assistant in Biology, part-time, 2016-2021.
-</div>
-
-<div markdown="1" class="notice--warning">
-## Miscellaneous
-
-- **App Development**  
-  Programa de Gobierno, Políticas Públicas y Transformación Social (PIGOPP) - Universidad Nacional Arturo Jauretche (UNAJ), 2022-2023  
-  Developed a mobile application to streamline surveys using Kivy in Python.
-
-- **Data Analysis**  
-  Sistema de Información, Evaluación y Monitoreo de Programas Sociales (SIEMPRO), 2020-2022  
-  Produced socioeconomic information and monitored social programs.  
-  - Worked with multiple government databases and employed statistical methodologies.
-  - Built interactive geographical visualizations and redesigned the website.
-
-- **Python Development - Web Scraping**  
-  EndCoronavirus.org, 2020-2021  
-  Developed automated web scrapers to separate content for translation using libraries like requests and bs4.
 </div>
