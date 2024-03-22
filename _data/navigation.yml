@@ -4,5 +4,7 @@ main:
     url: /projects/
   - title: "Publications"
     url: /publications/
+  - title: "Short CV"
+    url: /cv/
 #  - title: "Blog"
 #    url: /blog/

@@ -6,24 +6,33 @@ author_profile: true
 ---
 
 <div markdown="1" class="notice--info">
-## Academic Experience
+# General information 
 
-### Completed Studies
-- **PhD in Biological Sciences**  
-  Facultad de Cs. Exactas - Universidad Nacional de La Plata (UNLP), La Plata  
-  Approved with special distinction.  
-  Thesis: "Tissue regeneration, a systems biology approach"
+- **Full name** Emanuel Cura Costa
+- **Email** ecuracosta@iflysib.unlp.edu.ar
+- **Address** Calle 66 431,La Plata, Buenos Aires, Argentina
+- **Languages** Español, Inglés
+</div>
 
-- **Bachelor/MSc in Biotechnology and Molecular Biology**  
-  Facultad de Cs. Exactas - Universidad Nacional de La Plata (UNLP), La Plata  
-  Grade: 7.12/10  
-  Thesis: "Benznidazole: a reliable and efficient model for systems studied through molecular dynamics"
+<div markdown="1" class="notice--info">
+# Education
+
+## **Ph.D. in Biological Sciences**  
+- Facultad de Cs. Exactas - Universidad Nacional de La Plata (UNLP), La Plata  
+- Advisor: Prof. Dr. Osvaldo Chara
+- Thesis: "Tissue regeneration, a systems biology approach"
+- Approved with special distinction.  
+
+## **Bachelor/MSc in Biotechnology and Molecular Biology**  
+- Facultad de Cs. Exactas - Universidad Nacional de La Plata (UNLP), La Plata  
+- Advisor: Prof. Dr. Andrés Norman McCarthy
+- Thesis: "Benznidazole: a reliable and efficient model for systems studied through molecular dynamics"
 </div>
 
 <div markdown="1" class="notice--success">
-## Professional Experience
+# Academic positions
 
-### Postdoctoral Position
+## Postdoctoral Researcher
 - **Mathematical modeling and software development**  
   Systems Biology Group (SysBio), 2017-present  
   Led the development of SysVert, a GUI-based Vertex model simulation software for cellular tissue studies.  
