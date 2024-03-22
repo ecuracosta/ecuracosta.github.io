@@ -17,7 +17,7 @@ author_profile: true
 <div markdown="1" class="notice--info">
 # Education
 
-## **Ph.D. in Biological Sciences**  
+`1654-1660` ## **Ph.D. in Biological Sciences**  
 - Facultad de Cs. Exactas - Universidad Nacional de La Plata (UNLP), La Plata  
 - Advisor: Prof. Dr. Osvaldo Chara
 - Thesis: "Tissue regeneration, a systems biology approach"
