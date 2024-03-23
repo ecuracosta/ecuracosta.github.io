@@ -8,22 +8,24 @@ author_profile: true
 <div markdown="1" class="notice--info">
 # General information 
 
-- **Full name** Emanuel Cura Costa
-- **Email** ecuracosta@iflysib.unlp.edu.ar
-- **Address** Calle 66 431,La Plata, Buenos Aires, Argentina
-- **Languages** Español, Inglés
+- **Full name**   Emanuel Cura Costa
+- **Email**       ecuracosta@iflysib.unlp.edu.ar
+- **Address**     Calle 66 431,La Plata, Buenos Aires, Argentina
+- **Languages**   Español, Inglés
 </div>
 
 <div markdown="1" class="notice--info">
 # Education
 
-`1654-1660` ## **Ph.D. in Biological Sciences**  
+## **Ph.D. in Biological Sciences**
+`2015-2022`
 - Facultad de Cs. Exactas - Universidad Nacional de La Plata (UNLP), La Plata  
 - Advisor: Prof. Dr. Osvaldo Chara
 - Thesis: "Tissue regeneration, a systems biology approach"
 - Approved with special distinction.  
 
-## **Bachelor/MSc in Biotechnology and Molecular Biology**  
+## **Bachelor/MSc in Biotechnology and Molecular Biology**
+`2007-20014`
 - Facultad de Cs. Exactas - Universidad Nacional de La Plata (UNLP), La Plata  
 - Advisor: Prof. Dr. Andrés Norman McCarthy
 - Thesis: "Benznidazole: a reliable and efficient model for systems studied through molecular dynamics"
@@ -33,6 +35,7 @@ author_profile: true
 # Academic positions
 
 ## Postdoctoral Researcher
+`2022-present`
 - **Mathematical modeling and software development**  
   Systems Biology Group (SysBio), 2017-present  
   Led the development of SysVert, a GUI-based Vertex model simulation software for cellular tissue studies.  
@@ -42,6 +45,7 @@ author_profile: true
   - Coded geometric and force computations using libraries like numpy, pandas, and matplotlib.
 
 ### Doctoral Position
+`2015-2022`
 - **Mathematical modeling - Published in eLife**  
   Systems Biology Group (SysBio), 2014-2021  
   Explored mechanisms of spinal cord regeneration in axolotls.  
@@ -51,6 +55,7 @@ author_profile: true
 
 <div markdown="1" class="notice--warning">
 ### Teaching
+`2016-2023`
 - **Instructor**  
   Universidad Nacional de La Plata (UNLP), 2016-2023  
   Taught courses in Biology and Biophysical Chemistry.  
