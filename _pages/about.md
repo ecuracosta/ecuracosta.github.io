@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "Welcome to my corner of the internet!"
+title: "Simplicity is the ultimate sophistication\n\n     ― Leonardo da Vinci"
 permalink: /about/
 author_profile: true
 ---
